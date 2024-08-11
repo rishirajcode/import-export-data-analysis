@@ -10,7 +10,7 @@ Product performance <br>
 Key customers <br>
 Shipping costs <br>
  <br>
-<h4>Key Findings:</h4>
+<h4>Key Findings:-</h4>
  <br>
 KPI CardThe revenue trend is on the rise and in 2015 it has been rising continuously. There is a substantial spike in revenue from Dec 2014 to Jan 2015 by almost 32%.  <br>
 The average shipping time overall is 8.49 days but United Package is taking more than 9 days for it. <br>
