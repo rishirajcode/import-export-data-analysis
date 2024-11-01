@@ -3,7 +3,7 @@
  <br>
 
  Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMDAxMjA3NWUtZmJkMy00NjAzLTk1MDgtNThlNDA1NDQ3ZmJjIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9
-<h4>Objective </h4><br>
+<h4>Objective </h4>
 For the Maven Northwind Challenge, I was working as a BI Developer for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. <br>
 As part of the role, I've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
 <br>
